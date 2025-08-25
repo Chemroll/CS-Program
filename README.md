@@ -1,20 +1,18 @@
 # CS-Program
-Briefly summarize the requirements and goals of the app you developed. What user needs was this app designed to address?
-This app was design to help users monitor their progress of their weight lost journey. Users have the opportunity to input weights data on rugular bases
+Summarize the project and what problem it was solving.
+The final goal of the project is to develop a thermostat that sends data to a company called SysTec’s server software over Wi-Fi, but they first need a working prototype of the low-level thermostat functionality. 
 
-What screens and features were necessary to support user needs and produce a user-centered UI for the app? How did your UI designs keep users in mind? Why were your designs successful?
-There are three major screens; the first one is the login screen that allows users to login into the app and access their profile. It also help new users to also create an account. 
-There is also a database page that stores all the input data from the user. There is also an SMS page that sends notifications to users concerning the progress of the journey
+What did you do particularly well?
+What I did well was assemblying the various circuit components and isnatlling the software packages 
 
-How did you approach the process of coding your app? What techniques or strategies did you use? How could those techniques or strategies be applied in the future?
-The first process was to develope paper prototype and digital wireframes to serve a guide in buiding the app. The next thing was to use android studio to build the codes of the pages starting with the login page, database page then finally to the sms page
-this systematic approach in developing the app would help me in me in my future app developing career.
+Where could you improve?
+Where I can improve is the area of installing packages and knowing which commands to run
 
-How did you test to ensure your code was functional? Why is this process important, and what did it reveal?
-Tesing the app is an integral part in the app development process. This shows that the app is fully functional and ready for lunch. Using features such as android emulator to simulate how the app will show was one of the faetures I used to further test my app. After testing, it reveal to me that I needed to look at the database source code again. 
+What tools and/or resources are you adding to your support network?
+the tools I used were the Rasberri Pi, LED lights, LED Screen, circuits boards, electronic components, written instructions and wifi connections
 
-Consider the full app design and development process from initial planning to finalization. Where did you have to innovate to overcome a challenge?
-Creating an appealing UI design for the users to admire was the most challenging area. Each user has its own preference about how the UI should be, but as a developer, I needed to consider the general views of the users and conceptualize a unique design that best fits all user preferences. 
+What skills from this project will be particularly transferable to other projects and/or course work?
+The skill of knowing the kind of packages to install, the kind of commands to run, how to connect the cables and the general fucntionality of the Rasberri Pi
 
-In what specific component of your mobile app were you particularly successful in demonstrating your knowledge, skills, and experience?
-Building the xml files for the various pages. 
+How did you make this project maintainable, readable, and adaptable?
+From Module 1 to the last Module, the project was built in phases, making it easy to ride along with. Each week had a new component added and tested to confirm its functionality before moving on to the next phase
